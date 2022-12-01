@@ -1,1 +1,1 @@
-all about the project
+About shell basics
