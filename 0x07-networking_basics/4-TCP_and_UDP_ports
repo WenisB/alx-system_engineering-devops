@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#for the fifth task
+sudo netstat -tunlp
